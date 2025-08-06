@@ -1,0 +1,7 @@
+crewai
+openai
+python-dotenv
+requests
+crewai-tools
+streamlit
+watchdog
